@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PainAiko
 - 👀 I’m interested in reactjs an react native 
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning IHM
 - 💞️ I’m looking to collaborate on dev react
 - 📫 How to reach me https://www.facebook.com/thony.onjaniaina.5/
 
